@@ -1,0 +1,19 @@
+{
+  "name": "jsmoviewebscrapping",
+  "version": "1.0.0",
+  "description": "A javascript project to webscrap the movies website and render the same to search page.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhilesh Mahajan",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "puppeteer": "^23.2.2"
+  }
+}
